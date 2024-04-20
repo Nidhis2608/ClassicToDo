@@ -24,4 +24,5 @@ This application is built with the following technologies:
 
 ## Screenshot
 
-![Home Screen](https://github.com/masai-course/mohd_asif_fw28_307/blob/master/unit-7/evaluation/ClassicTodo/src/assets/home.png?raw=true)
+ -Home Screen ![image](https://github.com/Nidhis2608/ClassicToDo/assets/147683595/f9041b1b-cc34-4c7f-be15-67bb5323c8b5)
+
