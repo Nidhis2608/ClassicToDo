@@ -13,6 +13,12 @@ This is a simple yet powerful TODO application built using React and Redux with 
 - Clear all completed todos
 - Light and Dark Mode for better visibility
 
+### Deployed App
+https://classic-to-do-vftu.vercel.app/
+
+### Video Walkthrough of the project
+https://drive.google.com/file/d/17SJVIM0F9_nyXZqzlg4tOwD_kLx2XDw5/view?usp=sharing
+
 ## Tech Stack
 
 This application is built with the following technologies:
